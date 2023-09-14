@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print number - print an integer
+ * print_number - print an integer
  * @n: parameter, integer value/ input
  *
  */
