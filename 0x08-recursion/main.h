@@ -12,5 +12,6 @@ int is_prime_number(int n);
 int is_palindrome(char *s);
 int compare_string(char *s, int left, int right);
 int _strlen_recursion(char *s);
+int wildcmp(char *s1, char *s2);
 
 #endif
